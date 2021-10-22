@@ -1,0 +1,10 @@
+.navigation {
+	display: flex;
+	background-color: rgb(73, 146, 115);
+	box-shadow: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2 );
+	justify-content: flex-end;
+}
+
+.push {
+    margin-right: auto;
+}
